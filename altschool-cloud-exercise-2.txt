@@ -1,0 +1,22 @@
+
+10 more linux commands
+
+locate  --- Find files by name
+
+info  ----- Find files by name
+
+chown ---- Change file modes or Access control lists
+
+more ---view file contents
+
+grep  --- search for text within a file
+
+ping send icmp echo_request to network hosts
+
+w   --- display who is online
+
+du -- show directory space usage
+
+dig ---The dig (Domain Information Groper) command in Ubuntu is used to query DNS name servers
+
+cal ---show the month's calendar
