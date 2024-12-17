@@ -7,13 +7,13 @@ exercise 4 txt file
 
 #link to exercise 2 folder shown below
 
-![cal command](./tree/master/exercise-2/cal-command.md)
-![chown command](./tree/master/exercise-2/chown-command.md)
-![dig command](.//tree/master/exercise-2/dig-command.md)
-![du command](./tree/master/exercise-2/du-command.md)
-![grep command](./tree/master/exercise-2/grep-command.md)
-![info command](./tree/master/exercise-2/info-command.md)
-![locate command](./tree/master/exercise-2/locate-command.md)
-![more command](./tree/master/exercise-2/more-command.md)
-![ping command](./tree/master/exercise-2/ping-command.md)
-![w command](./tree/master/exercise-2/w-command.md)
+![cal command](./master/exercise-2/cal-command.md)
+![chown command](./master/exercise-2/chown-command.md)
+![dig command](./master/exercise-2/dig-command.md)
+![du command](./master/exercise-2/du-command.md)
+![grep command](./master/exercise-2/grep-command.md)
+![info command](./master/exercise-2/info-command.md)
+![locate command](./master/exercise-2/locate-command.md)
+![more command](./master/exercise-2/more-command.md)
+![ping command](./master/exercise-2/ping-command.md)
+![w command](./master/exercise-2/w-command.md)
